@@ -1,9 +1,3 @@
-.gradle
+.idea
 *.iml
-*.ipr
-*.iws
-out
-build
-
-.idea/*
-!.idea/dictionaries/
+target
